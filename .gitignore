@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+to_be_ignored.txt
+os_ptt.ipynb
+ptt_corpus.py
+
